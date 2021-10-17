@@ -1,7 +1,7 @@
 ![Design preview]
 <img src="https://github.com/nirban256/Bootstrap-website/blob/master/img/Screen-shot.png" width = 450 height = 1200>
 
-## Welcome! 👋
+# Welcome! 👋
 
 Thanks for checking out this project.
 
